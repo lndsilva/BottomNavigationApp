@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mFavorito"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorito" />
+    <item
+        android:id="@+id/mRecentes"
+        android:icon="@drawable/ic_restore"
+        android:title="Recentes" />
+    <item
+        android:id="@+id/mLocal"
+        android:icon="@drawable/ic_person_pin_circle"
+        android:title="Local" />
+</menu>
